@@ -15,7 +15,6 @@
 ## 🚀 About Me  
 I am a Backend Developer specializing in ASP.NET Core, focused on building scalable and maintainable systems using Clean Architecture and Domain-Driven Design (DDD).
 
-⚡ Philosophy: *"Make it work, make it right, make it maintainable."*
 
 ---
 
